@@ -106,7 +106,7 @@ function App() {
           id="projects"
           className="min-h-screen flex flex-col items-center justify-center bg-black/30 text-indigo-200 text-center px-4 py-12 [text-shadow:0_2px_8px_#000]"
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-8">Projects</h2>
+          {/* <h2 className="text-3xl md:text-4xl font-bold mb-8">Projects</h2> */}
           {/* <ul className="space-y-8 max-w-xl w-full mx-auto list-none p-0">
             <li className="mb-6">
               <strong className="block text-xl font-semibold mb-2">
